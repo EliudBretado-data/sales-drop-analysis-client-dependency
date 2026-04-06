@@ -1,8 +1,8 @@
-## Problem
+## Business Problem
 
 
 
-In March, sales dropped by 27%, impacting overall business performance.	
+In March, sales dropped by 27%, impacting overall performance.	
 
 
 
@@ -10,8 +10,7 @@ In March, sales dropped by 27%, impacting overall business performance.
 
 
 
-Identify the root cause of the decline and provide actionable insights.
-
+Identify the root cause of the decline and assess business risk.
 
 
 
@@ -32,13 +31,11 @@ Excel (data cleaning)
 
 
 
-Heavy dependency on client C001
+The business showed a high dependency on client C001, especially in the North region.
 
-The North region was the most affected
+## Risk Identified
 
-C001 reduced purchases significantly in March
-
-Lack of client diversification increased risk exposure
+Revenue concentration created a structural vulnerability.
 
 
 
@@ -57,14 +54,12 @@ Need for diversification strategy in the North región
 ## Recommendations
 
 
+Reduce dependency on top clients
+Diversify customer base
+Monitor client activity trends
 
-Reduce dependency on top clients (no more than 20–25%)
 
-Increase client acquisition in the North region
-
-Implement early warning KPIs for client activity drops
-
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](images/Dashboard.png)
 
